@@ -1,0 +1,30 @@
+body{
+      font-family: 'Bebas Neue', cursive;
+            font-family: 'Poppins', sans-serif;
+            font-family: 'Roboto', sans-serif;
+}
+
+
+
+.first-section{
+      text-align: center;
+      margin-top: 100px;
+      box-shadow:10px 10px 10px  grey;
+      margin-left: 35%;
+      margin-right: 35%;
+      height: 300px;
+      border-radius: 7px;
+}
+h1{ 
+      color: blue;
+}   
+.Log-in{
+      width: 175px;
+      height: 30px;
+      background-color: blue;
+      color: white;
+      font-size: larger;
+      border: 1px solid blue;
+      border-radius: 2px;
+}
+
